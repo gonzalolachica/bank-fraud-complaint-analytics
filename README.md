@@ -117,7 +117,7 @@ A few things worth knowing if you're digging into the SQL:
 
 ## Status
 
-✅ Complete. Ingestion, staging, star schema, and all 17 SQL analysis scripts are done and validated. The 3-page Power BI dashboard (Overview, Fraud Profile, Trends) is built with a full 13-measure DAX semantic layer on top of the warehouse. Screenshots and a `.pbix` backup are included since the report itself isn't externally shareable on this org's Fabric tenant — the trial capacity behind it was time-boxed, so this repo (plus the [portfolio case study](https://gonzalolachica.github.io)) is the durable record of the build.
+Complete. Ingestion, staging, star schema, and all 17 SQL analysis scripts are done and validated. The 3-page Power BI dashboard (Overview, Fraud Profile, Trends) is built with a full 13-measure DAX semantic layer on top of the warehouse. Screenshots and a `.pbix` backup are included since the report itself isn't externally shareable on this org's Fabric tenant — the trial capacity behind it was time-boxed, so this repo (plus the [portfolio case study](https://gonzalolachica.github.io)) is the durable record of the build.
 
 ## Related docs
 
