@@ -2,7 +2,6 @@
 
 A Microsoft Fabric data warehouse and Power BI dashboard benchmarking fraud- and scam-related complaint patterns across **Truist**, **JPMorgan Chase**, and **American Express**, built on the public CFPB Consumer Complaint Database.
 
-![Status](https://img.shields.io/badge/status-complete-brightgreen) ![Stack](https://img.shields.io/badge/stack-Fabric%20%2B%20Power%20BI-blue)
 
 ## Why this project
 
